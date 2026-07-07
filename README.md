@@ -1,4 +1,4 @@
-# Day-1 : First Salesforce Project [Bulb Toggle Simulation]
+# Day-1 : First Salesforce Project Bulb Toggle Simulation
 
 ## Overview
 This project is a production-quality simulation of a 7-bulb lighting system driven by a repeating A/B schedule, governed by Indian Gazetted Holiday displacement logic. It features a robust **Java 17 backend** and a modern **React + Vite frontend** with premium UI animations.
